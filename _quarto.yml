@@ -1,4 +1,3 @@
----
 project:
   type: website
   output-dir: docs
@@ -15,5 +14,3 @@ format:
     toc: true
     toc-depth: 4
     number-sections: true
-
----
