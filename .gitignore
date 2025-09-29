@@ -4,19 +4,15 @@
 .RData
 .Ruserdata
 
-# Quarto / Rmd build-artifacts (la HTML være med i repo hvis du vil dele dem)
+# Quarto/Rmd artefakter
 _site/
 .quarto/
 *_cache/
 *.knit.md
 *.utf8.md
 
-# OS/IDE-ting
+# OS / diverse
 .DS_Store
 Thumbs.db
-
-# Jupyter
 .ipynb_checkpoints/
-
-# Node
 node_modules/
