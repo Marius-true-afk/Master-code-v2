@@ -2,12 +2,11 @@
 title: "Biologiske variabler_v2"
 author: "Marius Émil Lid"
 date: today
-date-format: "D MMMM, YYYY"
-toc: true
-toc-depth: 4
-number-sections: true
 format:
   html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
     self-contained: true
     code-tools:
       source: true

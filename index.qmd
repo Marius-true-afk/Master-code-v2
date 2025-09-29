@@ -1,12 +1,9 @@
 ---
-title: "Master project"
+title: "Velkommen"
 format: html
 ---
 
-# Master project
+# Velkommen
 
-This is a collection of analysis and notes in Quarto.\
-Use the menu to navigate the different files.
-
--   [Biologiske variabler](Biologiske-variabler_v2.qmd)\
--   [Biologiske variabler nyere versjon](Biologiske variabler_v2.qmd)
+Bruk menyen/sidebaren for å åpne analysene (QMD-filene).  
+Denne siden bygges automatisk ved push til `main`.
