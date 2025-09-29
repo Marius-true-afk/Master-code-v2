@@ -1,7 +1,22 @@
-.Rproj.user
+# R / RStudio
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 
-/.quarto/
-**/*.quarto_ipynb
+# Quarto / Rmd build-artifacts (la HTML være med i repo hvis du vil dele dem)
+_site/
+.quarto/
+*_cache/
+*.knit.md
+*.utf8.md
+
+# OS/IDE-ting
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
