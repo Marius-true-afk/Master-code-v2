@@ -1,9 +1,15 @@
----
-title: "Velkommen"
-format: html
----
-
-# Velkommen
-
-Bruk menyen/sidebaren for å åpne analysene (QMD-filene).  
-Denne siden bygges automatisk ved push til `main`.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Master data</title>
+</head>
+<body>
+  <h1>Summary</h1>
+  <ul>
+    <li><a href="1109%20data%20behandling.html">1109 data behandling.html</a></li>
+    <li><a href="Biologiske%20variabler.html">Biologiske variabler.html</a></li>
+    <li><a href="Søylediagram.html">Søylediagram.html</a></li>
+    <li><a href="Tetthetskart.html">Tetthetskart.html</a></li>
+  </ul>
+</body>
+</html>
