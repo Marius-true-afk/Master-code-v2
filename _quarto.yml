@@ -1,16 +1,19 @@
 ---
 project:
-   type: website
-   output-dir: docs
- website:
-   title: "Master-prosjekt"
-   sidebar:
-     style: docked
-     search: true
-     contents: auto
- format:
-   html:
-     toc: true
-     toc-depth: 4
-     number-sections: true
+  type: website
+  output-dir: docs
+
+website:
+  title: "Master-prosjekt"
+  sidebar:
+    style: docked
+    search: true
+    contents: auto
+
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+
 ---
