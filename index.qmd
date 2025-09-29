@@ -1,0 +1,12 @@
+---
+title: "Master project"
+format: html
+---
+
+# Master project
+
+This is a collection of analysis and notes in Quarto.\
+Use the menu to navigate the different files.
+
+-   [Biologiske variabler](Biologiske-variabler_v2.qmd)\
+-   [Biologiske variabler nyere versjon](Biologiske variabler_v2.qmd)
